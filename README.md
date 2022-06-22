@@ -12,7 +12,7 @@
 - 👨‍🏭 I’m currently pursuing **SE @ITBA**. <br>
 - 🏫 I’m always learning. <br>
 
-### 🕵 My socials:<br>
+### 🕵 Contact:<br>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-glpecile-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/glpecile/)](https://www.linkedin.com/in/glpecile/)
@@ -28,7 +28,6 @@
 <a href="https://github.com/remcohalman/github-readme-stats">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=glpecile&layout=compact&theme=algolia" />
 </a>
-<br>
 <br><br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=glpecile&theme=algolia)](https://git.io/streak-stats)
