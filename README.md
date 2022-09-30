@@ -9,15 +9,9 @@
 
 ![](https://komarev.com/ghpvc/?username=glpecile&color=blue)<br>
 
-I’m currently pursuing **SE @ITBA**. <br>
-
-### 🕵 Contact:<br>
-
+SE student @ITBA. <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-glpecile-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/glpecile/)](https://www.linkedin.com/in/glpecile/)
-
-### 📈 Stats:
-
 
 <br>
 <a href="https://github.com/glpecile">
