@@ -5,24 +5,13 @@
 
 # Hello there, I'm Gian! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 
-<br>
+![](https://komarev.com/ghpvc/?username=glpecile&color=blue)
 
-![](https://komarev.com/ghpvc/?username=glpecile&color=blue)<br>
+SE student @ITBA.
 
-SE student @ITBA. <br>
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=glpecile&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=glpecile&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%235580eb%2C%20%232aeeff)">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=glpecile&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
+</picture>
 
-[![Linkedin Badge](https://img.shields.io/badge/-glpecile-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/glpecile/)](https://www.linkedin.com/in/glpecile/)
-
-<br>
-<a href="https://github.com/glpecile">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=glpecile&show_icons=true&include_all_commits=true&theme=algolia&count_private=true">
-</a>
-<br><br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=glpecile&theme=algolia)](https://git.io/streak-stats)
-
-<a href="https://github.com/remcohalman/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=glpecile&theme=algolia" />
-</a>
-</div>
-</div>
