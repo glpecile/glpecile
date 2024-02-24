@@ -5,7 +5,10 @@
 
 # Hello there, I'm Gian! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 
-![](https://komarev.com/ghpvc/?username=glpecile&color=blue)
+<picture decoding="async" loading="lazy">
+  <source srcset="https://komarev.com/ghpvc/?username=glpecile&color=blue" />
+  <img alt="profile views" src="https://komarev.com/ghpvc/?username=glpecile&color=blue">
+</picture>
 
 SE student @ITBA.
 
