@@ -1,0 +1,13 @@
+{
+  "name": "glpecile-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update": "bun run today.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript": "^5"
+  }
+}
