@@ -9,5 +9,3 @@
     <img alt="Gian Luca Pecile's GitHub profile" src="https://raw.githubusercontent.com/glpecile/glpecile/main/light_mode.svg">
   </picture>
 </a>
-
-Edit `profile.ts` to change the details shown in both cards, then run `bun run update`.
