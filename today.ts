@@ -1,5 +1,5 @@
 /**
- * Rewrites the "Uptime" line in dark_mode.svg / light_mode.svg.
+ * Updates the profile details and "Uptime" in dark_mode.svg / light_mode.svg.
  *
  * Credit where it's due — the neofetch-style profile README and the SVG
  * dot-leader justification trick are Andrew Grant's work, ported here from
@@ -12,14 +12,7 @@
  * here; everything below runs with no credentials at all.
  */
 
-export {};
-
-/** From .env, which Bun loads automatically and which is committed. */
-const BIRTHDAY = process.env.BIRTHDAY;
-if (!BIRTHDAY) throw new Error("Missing BIRTHDAY — expected it in .env");
-
-/** Widest the value can get, used to size the dot leader before it. */
-const AGE_WIDTH = 49;
+import { profile } from "./profile.ts";
 
 /**
  * e.g. "23 years, 5 months, 29 days", with a 🎂 on the day itself.
@@ -53,15 +46,24 @@ function uptime(birthday: string, today = new Date()): string {
  * Replaces the text of `<tspan id="...">…</tspan>`, and resizes the matching
  * `<tspan id="..._dots">` so the value stays right-aligned.
  */
-function justify(svg: string, id: string, value: string, width: number): string {
+function justify(svg: string, id: string, value: string): string {
+  const previous = getText(svg, id);
+  const leader = getText(svg, `${id}_dots`);
+  if (previous === undefined || leader === undefined) {
+    throw new Error(`Missing ${id} or ${id}_dots in SVG`);
+  }
+  const width = previous.length + leader.trim().length;
   const gap = Math.max(0, width - value.length);
-  const dots = gap <= 2 ? ["", " ", ". "][gap]! : ` ${".".repeat(gap)} `;
+  const dots = ` ${".".repeat(gap)} `;
   return setText(setText(svg, id, value), `${id}_dots`, dots);
+}
+
+function getText(svg: string, id: string): string | undefined {
+  return svg.match(new RegExp(`<tspan[^>]*\\bid="${id}"[^>]*>([^<]*)</tspan>`))?.[1];
 }
 
 function setText(svg: string, id: string, text: string): string {
   const pattern = new RegExp(`(<tspan[^>]*\\bid="${id}"[^>]*>)[^<]*(</tspan>)`);
-  if (!pattern.test(svg)) return svg; // element absent — nothing to justify
   return svg.replace(
     pattern,
     (_, open: string, close: string) => `${open}${escapeXml(text)}${close}`,
@@ -72,11 +74,14 @@ function escapeXml(text: string): string {
   return text.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 }
 
-const age = uptime(BIRTHDAY);
+const age = uptime(profile.birthday);
 
 for (const path of ["dark_mode.svg", "light_mode.svg"]) {
-  const svg = await Bun.file(path).text();
-  await Bun.write(path, justify(svg, "age_data", age, AGE_WIDTH));
+  let svg = await Bun.file(path).text();
+  for (const [id, value] of Object.entries(profile)) {
+    if (id !== "birthday") svg = justify(svg, id, value);
+  }
+  await Bun.write(path, justify(svg, "age_data", age));
 }
 
 console.log(`Uptime: ${age}`);

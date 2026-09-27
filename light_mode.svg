@@ -41,23 +41,23 @@ text, tspan {white-space: pre;}
 </text>
 <text x="400" y="30" fill="#24292f">
 <tspan x="400" y="30">gian@pecile</tspan> -————————————————————————————————————————————-—-
-<tspan x="400" y="50" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Buenos Aires, Argentina</tspan>
+<tspan x="400" y="50" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc" id="location_dots"> ........................ </tspan><tspan class="value" id="location">Buenos Aires, Argentina</tspan>
 <tspan x="400" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ..................... </tspan><tspan class="value" id="age_data">27 years, 10 months, 23 days</tspan>
-<tspan x="400" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">POAP - Proof Of Attendance Protocol</tspan>
-<tspan x="400" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Software / Frontend Engineer</tspan>
-<tspan x="400" y="130" class="cc">. </tspan><tspan class="key">Education</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Software Engineering, ITBA (2017-2025)</tspan>
+<tspan x="400" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc" id="host_dots"> ............................................. </tspan><tspan class="value" id="host">Humand</tspan>
+<tspan x="400" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc" id="kernel_dots"> ..................... </tspan><tspan class="value" id="kernel">Software / Frontend Engineer</tspan>
+<tspan x="400" y="130" class="cc">. </tspan><tspan class="key">Education</tspan>:<tspan class="cc" id="education_dots"> ........ </tspan><tspan class="value" id="education">Software Engineering, ITBA (2017-2025)</tspan>
 <tspan x="400" y="150" class="cc">. </tspan>
-<tspan x="400" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">TypeScript, Python, Elixir, Java, C</tspan>
-<tspan x="400" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Frontend</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">React, React Native, Next.js, Astro</tspan>
-<tspan x="400" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Spanish, English, Italian, Portuguese</tspan>
+<tspan x="400" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc" id="programming_dots"> .. </tspan><tspan class="value" id="programming">TypeScript, Python, Elixir, Java, C</tspan>
+<tspan x="400" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Frontend</tspan>:<tspan class="cc" id="frontend_dots"> .. </tspan><tspan class="value" id="frontend">React, React Native, Next.js, Astro</tspan>
+<tspan x="400" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc" id="languages_dots"> .... </tspan><tspan class="value" id="languages">Spanish, English, Italian, Portuguese</tspan>
 <tspan x="400" y="230" class="cc">. </tspan>
-<tspan x="400" y="250" class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Design</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">design systems, animation, accessible UI</tspan>
-<tspan x="400" y="270" class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Research</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">privacy-preserving ML (FHE)</tspan>
+<tspan x="400" y="250" class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Design</tspan>:<tspan class="cc" id="design_dots"> ... </tspan><tspan class="value" id="design">design systems, animation, accessible UI</tspan>
+<tspan x="400" y="270" class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Research</tspan>:<tspan class="cc" id="research_dots"> .............. </tspan><tspan class="value" id="research">privacy-preserving ML (FHE)</tspan>
 <tspan x="400" y="310">- Links</tspan> -————————————————————————————————————————————————-—-
-<tspan x="400" y="330" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">glpecile.xyz</tspan>
-<tspan x="400" y="350" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">glpecile</tspan>
-<tspan x="400" y="370" class="cc">. </tspan><tspan class="key">X</tspan>:<tspan class="cc"> ............................................... </tspan><tspan class="value">glpwzrd</tspan>
-<tspan x="400" y="390" class="cc">. </tspan><tspan class="key">Bluesky</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">glpecile.xyz</tspan>
-<tspan x="400" y="410" class="cc">. </tspan><tspan class="key">Letterboxd</tspan>:<tspan class="cc"> .......................................... </tspan><tspan class="value">Glp</tspan>
+<tspan x="400" y="330" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc" id="website_dots"> .................................... </tspan><tspan class="value" id="website">glpecile.xyz</tspan>
+<tspan x="400" y="350" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc" id="github_dots"> ......................................... </tspan><tspan class="value" id="github">glpecile</tspan>
+<tspan x="400" y="370" class="cc">. </tspan><tspan class="key">X</tspan>:<tspan class="cc" id="x_dots"> ............................................... </tspan><tspan class="value" id="x">glpwzrd</tspan>
+<tspan x="400" y="390" class="cc">. </tspan><tspan class="key">Bluesky</tspan>:<tspan class="cc" id="bluesky_dots"> .................................... </tspan><tspan class="value" id="bluesky">glpecile.xyz</tspan>
+<tspan x="400" y="410" class="cc">. </tspan><tspan class="key">Letterboxd</tspan>:<tspan class="cc" id="letterboxd_dots"> .......................................... </tspan><tspan class="value" id="letterboxd">Glp</tspan>
 </text>
 </svg>
