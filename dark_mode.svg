@@ -42,7 +42,7 @@ text, tspan {white-space: pre;}
 <text x="400" y="30" fill="#c9d1d9">
 <tspan x="400" y="30">gian@pecile</tspan> -————————————————————————————————————————————-—-
 <tspan x="400" y="50" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc" id="location_dots"> ........................ </tspan><tspan class="value" id="location">Buenos Aires, Argentina</tspan>
-<tspan x="400" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ..................... </tspan><tspan class="value" id="age_data">27 years, 10 months, 29 days</tspan>
+<tspan x="400" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">27 years, 11 months, 0 days</tspan>
 <tspan x="400" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc" id="host_dots"> ............................................. </tspan><tspan class="value" id="host">Humand</tspan>
 <tspan x="400" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc" id="kernel_dots"> ..................... </tspan><tspan class="value" id="kernel">Software / Frontend Engineer</tspan>
 <tspan x="400" y="130" class="cc">. </tspan><tspan class="key">Education</tspan>:<tspan class="cc" id="education_dots"> ........ </tspan><tspan class="value" id="education">Software Engineering, ITBA (2017-2025)</tspan>
