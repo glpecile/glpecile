@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "update": "bun run today.ts",
+    "test": "bun test",
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
