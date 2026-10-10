@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 4 * * *"
+    - cron: "17 4 * * *"
   workflow_dispatch:
 
 permissions:
@@ -27,14 +27,20 @@ jobs:
         with:
           bun-version: latest
 
-      - name: Update SVGs
-        run: bun run today.ts
+      - run: bun install --frozen-lockfile
+      - run: bun test
+      - run: bun run typecheck
+
+      - name: Fetch website exports and update README
+        run: bun run update
+        env:
+          GH_TOKEN: ${{ github.token }}
 
       - name: Commit
         run: |
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
-          git add -A
+          git add README.md assets/github-*.svg assets/article-*.png
           git diff --cached --quiet && echo "No changes to commit" && exit 0
-          git commit -m "chore: update profile uptime"
+          git commit -m "chore: sync README from website"
           git push
