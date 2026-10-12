@@ -39,7 +39,7 @@ Frontend engineer focused on design systems and high-craft product UI.
   <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/github-dark-static.svg">
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/github-light-static.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-dark.svg">
-  <img src="./assets/github-light.svg" width="900" alt="GitHub activity: 1,708 contributions, 221 active days, 31 public repositories, 65 followers. Weekly contribution skyline from 2025-10-12 to 2026-10-11.">
+  <img src="./assets/github-light.svg" width="900" alt="GitHub activity: 1,730 contributions, 223 active days, 31 public repositories, 65 followers. Weekly contribution skyline from 2025-10-12 to 2026-10-12.">
 </picture>
 </a>
 
@@ -48,20 +48,20 @@ Frontend engineer focused on design systems and high-craft product UI.
 <table>
 <tr>
 <td width="25%" align="center" valign="top">
-<a href="https://letterboxd.com/glp/film/spider-man-brand-new-day/"><img src="https://a.ltrbxd.com/resized/film-poster/8/7/2/8/7/1/872871-spider-man-brand-new-day-0-600-0-900-crop.jpg?v=ebe6beb4fc" width="120" height="180" alt="Spider-Man: Brand New Day (2026) poster" loading="lazy"></a>
-<p><strong><a href="https://letterboxd.com/glp/film/spider-man-brand-new-day/">Spider-Man: Brand New Day</a></strong><br><samp>2026 · 06 Oct 2026</samp></p>
+<a href="https://letterboxd.com/glp/film/carrie-1976/"><img src="https://a.ltrbxd.com/resized/sm/upload/2c/5d/69/bc/uc3OvgmbnYaS5Y0BOjSmC1EmSz1-0-600-0-900-crop.jpg?v=52ac29973c" width="120" height="180" alt="Carrie (1976) poster" loading="lazy"></a>
+<p><strong><a href="https://letterboxd.com/glp/film/carrie-1976/">Carrie</a></strong><br><samp>1976 · 12 Oct 2026</samp></p>
 </td>
 <td width="25%" align="center" valign="top">
-<a href="https://letterboxd.com/glp/film/vampire-hunter-d-bloodlust/"><img src="https://a.ltrbxd.com/resized/film-poster/4/1/9/2/0/41920-vampire-hunter-d-bloodlust-0-600-0-900-crop.jpg?v=ff931c0f5b" width="120" height="180" alt="Vampire Hunter D: Bloodlust (2000) poster" loading="lazy"></a>
-<p><strong><a href="https://letterboxd.com/glp/film/vampire-hunter-d-bloodlust/">Vampire Hunter D: Bloodlust</a></strong><br><samp>2000 · 05 Oct 2026</samp></p>
+<a href="https://letterboxd.com/glp/film/krypto-saves-the-day-robo-pal/"><img src="https://a.ltrbxd.com/resized/film-poster/1/6/4/5/2/7/3/1645273-krypto-saves-the-day-robo-pal-0-600-0-900-crop.jpg?v=2c1097f140" width="120" height="180" alt="Krypto Saves the Day!: Robo-Pal (2026) poster" loading="lazy"></a>
+<p><strong><a href="https://letterboxd.com/glp/film/krypto-saves-the-day-robo-pal/">Krypto Saves the Day!: Robo-Pal</a></strong><br><samp>2026 · 11 Oct 2026</samp></p>
 </td>
 <td width="25%" align="center" valign="top">
-<a href="https://letterboxd.com/glp/film/vampire-hunter-d/"><img src="https://a.ltrbxd.com/resized/film-poster/4/7/1/3/4/47134-vampire-hunter-d-0-600-0-900-crop.jpg?v=d7acaa174e" width="120" height="180" alt="Vampire Hunter D (1985) poster" loading="lazy"></a>
-<p><strong><a href="https://letterboxd.com/glp/film/vampire-hunter-d/">Vampire Hunter D</a></strong><br><samp>1985 · 04 Oct 2026</samp></p>
+<a href="https://letterboxd.com/glp/film/evil-dead-burn/"><img src="https://a.ltrbxd.com/resized/film-poster/1/0/9/7/0/2/2/1097022-evil-dead-burn-0-600-0-900-crop.jpg?v=398ff82d46" width="120" height="180" alt="Evil Dead Burn (2026) poster" loading="lazy"></a>
+<p><strong><a href="https://letterboxd.com/glp/film/evil-dead-burn/">Evil Dead Burn</a></strong><br><samp>2026 · 11 Oct 2026</samp></p>
 </td>
 <td width="25%" align="center" valign="top">
-<a href="https://letterboxd.com/glp/film/digger-2026/"><img src="https://a.ltrbxd.com/resized/film-poster/1/1/3/2/6/8/8/1132688-digger-2026-0-600-0-900-crop.jpg?v=81ec883a95" width="120" height="180" alt="Digger (2026) poster" loading="lazy"></a>
-<p><strong><a href="https://letterboxd.com/glp/film/digger-2026/">Digger</a></strong><br><samp>2026 · 03 Oct 2026</samp></p>
+<a href="https://letterboxd.com/glp/film/carrie-2026/"><img src="https://a.ltrbxd.com/resized/film-poster/1/6/1/8/1/6/8/1618168-carrie-2026-0-600-0-900-crop.jpg?v=bef2e5cffd" width="120" height="180" alt="Carrie (2026) poster" loading="lazy"></a>
+<p><strong><a href="https://letterboxd.com/glp/film/carrie-2026/">Carrie</a></strong><br><samp>2026 · 10 Oct 2026</samp></p>
 </td>
 </tr>
 </table>
