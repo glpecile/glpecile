@@ -39,7 +39,7 @@ Frontend engineer focused on design systems and high-craft product UI.
   <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/github-dark-static.svg">
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/github-light-static.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-dark.svg">
-  <img src="./assets/github-light.svg" width="900" alt="GitHub activity: 1,730 contributions, 223 active days, 31 public repositories, 65 followers. Weekly contribution skyline from 2025-10-12 to 2026-10-12.">
+  <img src="./assets/github-light.svg" width="900" alt="GitHub activity: 1,768 contributions, 224 active days, 31 public repositories, 65 followers. Weekly contribution skyline from 2025-10-12 to 2026-10-13.">
 </picture>
 </a>
 
@@ -52,7 +52,7 @@ Frontend engineer focused on design systems and high-craft product UI.
 <p><strong><a href="https://letterboxd.com/glp/film/carrie-1976/">Carrie</a></strong><br><samp>1976 · 12 Oct 2026</samp></p>
 </td>
 <td width="25%" align="center" valign="top">
-<a href="https://letterboxd.com/glp/film/krypto-saves-the-day-robo-pal/"><img src="https://a.ltrbxd.com/resized/film-poster/1/6/4/5/2/7/3/1645273-krypto-saves-the-day-robo-pal-0-600-0-900-crop.jpg?v=2c1097f140" width="120" height="180" alt="Krypto Saves the Day!: Robo-Pal (2026) poster" loading="lazy"></a>
+<a href="https://letterboxd.com/glp/film/krypto-saves-the-day-robo-pal/"><img src="https://a.ltrbxd.com/resized/film-poster/1/6/4/5/2/7/3/1645273-krypto-saves-the-day-robo-pal-0-600-0-900-crop.jpg?v=f351186e3c" width="120" height="180" alt="Krypto Saves the Day!: Robo-Pal (2026) poster" loading="lazy"></a>
 <p><strong><a href="https://letterboxd.com/glp/film/krypto-saves-the-day-robo-pal/">Krypto Saves the Day!: Robo-Pal</a></strong><br><samp>2026 · 11 Oct 2026</samp></p>
 </td>
 <td width="25%" align="center" valign="top">
