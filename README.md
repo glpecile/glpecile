@@ -39,7 +39,7 @@ Frontend engineer focused on design systems and high-craft product UI.
   <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/github-dark-static.svg">
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/github-light-static.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-dark.svg">
-  <img src="./assets/github-light.svg" width="900" alt="GitHub activity: 1,768 contributions, 224 active days, 31 public repositories, 65 followers. Weekly contribution skyline from 2025-10-12 to 2026-10-13.">
+  <img src="./assets/github-light.svg" width="900" alt="GitHub activity: 1,824 contributions, 225 active days, 32 public repositories, 65 followers. Weekly contribution skyline from 2025-10-12 to 2026-10-14.">
 </picture>
 </a>
 
@@ -47,6 +47,10 @@ Frontend engineer focused on design systems and high-craft product UI.
 
 <table>
 <tr>
+<td width="25%" align="center" valign="top">
+<a href="https://letterboxd.com/glp/film/tetsuo-the-iron-man/"><img src="https://a.ltrbxd.com/resized/film-poster/2/3/6/0/2/23602-tetsuo-the-iron-man-0-600-0-900-crop.jpg?v=7db3db7b0d" width="120" height="180" alt="Tetsuo: The Iron Man (1989) poster" loading="lazy"></a>
+<p><strong><a href="https://letterboxd.com/glp/film/tetsuo-the-iron-man/">Tetsuo: The Iron Man</a></strong><br><samp>1989 · 13 Oct 2026</samp></p>
+</td>
 <td width="25%" align="center" valign="top">
 <a href="https://letterboxd.com/glp/film/carrie-1976/"><img src="https://a.ltrbxd.com/resized/sm/upload/2c/5d/69/bc/uc3OvgmbnYaS5Y0BOjSmC1EmSz1-0-600-0-900-crop.jpg?v=52ac29973c" width="120" height="180" alt="Carrie (1976) poster" loading="lazy"></a>
 <p><strong><a href="https://letterboxd.com/glp/film/carrie-1976/">Carrie</a></strong><br><samp>1976 · 12 Oct 2026</samp></p>
@@ -58,10 +62,6 @@ Frontend engineer focused on design systems and high-craft product UI.
 <td width="25%" align="center" valign="top">
 <a href="https://letterboxd.com/glp/film/evil-dead-burn/"><img src="https://a.ltrbxd.com/resized/film-poster/1/0/9/7/0/2/2/1097022-evil-dead-burn-0-600-0-900-crop.jpg?v=398ff82d46" width="120" height="180" alt="Evil Dead Burn (2026) poster" loading="lazy"></a>
 <p><strong><a href="https://letterboxd.com/glp/film/evil-dead-burn/">Evil Dead Burn</a></strong><br><samp>2026 · 11 Oct 2026</samp></p>
-</td>
-<td width="25%" align="center" valign="top">
-<a href="https://letterboxd.com/glp/film/carrie-2026/"><img src="https://a.ltrbxd.com/resized/film-poster/1/6/1/8/1/6/8/1618168-carrie-2026-0-600-0-900-crop.jpg?v=bef2e5cffd" width="120" height="180" alt="Carrie (2026) poster" loading="lazy"></a>
-<p><strong><a href="https://letterboxd.com/glp/film/carrie-2026/">Carrie</a></strong><br><samp>2026 · 10 Oct 2026</samp></p>
 </td>
 </tr>
 </table>
