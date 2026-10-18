@@ -1,126 +1,126 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="272" viewBox="0 0 900 272" role="img" aria-labelledby="title desc">
 <title id="title">glpecile's GitHub activity skyline</title>
-<desc id="desc">1883 contributions, 227 active days, 32 public repositories and 65 followers. Weekly contributions from 2025-10-12 to 2026-10-17; bar height represents contribution count.</desc>
+<desc id="desc">1887 contributions, 228 active days, 32 public repositories and 65 followers. Weekly contributions from 2025-10-19 to 2026-10-18; bar height represents contribution count.</desc>
 <defs>
   <linearGradient id="ink"><stop stop-color="#0969da"/><stop offset="1" stop-color="#8250df"/></linearGradient>
   <linearGradient id="glint"><stop stop-color="white" stop-opacity="0"/><stop offset=".5" stop-color="white" stop-opacity=".5"/><stop offset="1" stop-color="white" stop-opacity="0"/></linearGradient>
-  <clipPath id="skyline"><rect x="26.00" y="223.00" width="12.00" height="3.00" rx="2"><title>Week of 2025-10-12: 0 contributions</title></rect>
-<rect x="42.00" y="223.00" width="12.00" height="3.00" rx="2"><title>Week of 2025-10-19: 0 contributions</title></rect>
-<rect x="58.00" y="223.00" width="12.00" height="3.00" rx="2"><title>Week of 2025-10-26: 0 contributions</title></rect>
-<rect x="74.00" y="223.00" width="12.00" height="3.00" rx="2"><title>Week of 2025-11-02: 1 contributions</title></rect>
-<rect x="90.00" y="223.00" width="12.00" height="3.00" rx="2"><title>Week of 2025-11-09: 0 contributions</title></rect>
-<rect x="106.00" y="223.00" width="12.00" height="3.00" rx="2"><title>Week of 2025-11-16: 0 contributions</title></rect>
-<rect x="122.00" y="212.08" width="12.00" height="13.92" rx="2"><title>Week of 2025-11-23: 30 contributions</title></rect>
-<rect x="138.00" y="216.26" width="12.00" height="9.74" rx="2"><title>Week of 2025-11-30: 21 contributions</title></rect>
-<rect x="154.00" y="218.58" width="12.00" height="7.42" rx="2"><title>Week of 2025-12-07: 16 contributions</title></rect>
-<rect x="170.00" y="217.19" width="12.00" height="8.81" rx="2"><title>Week of 2025-12-14: 19 contributions</title></rect>
-<rect x="186.00" y="219.97" width="12.00" height="6.03" rx="2"><title>Week of 2025-12-21: 13 contributions</title></rect>
-<rect x="202.00" y="222.29" width="12.00" height="3.71" rx="2"><title>Week of 2025-12-28: 8 contributions</title></rect>
-<rect x="218.00" y="220.43" width="12.00" height="5.57" rx="2"><title>Week of 2026-01-04: 12 contributions</title></rect>
-<rect x="234.00" y="218.11" width="12.00" height="7.89" rx="2"><title>Week of 2026-01-11: 17 contributions</title></rect>
-<rect x="250.00" y="218.11" width="12.00" height="7.89" rx="2"><title>Week of 2026-01-18: 17 contributions</title></rect>
-<rect x="266.00" y="213.94" width="12.00" height="12.06" rx="2"><title>Week of 2026-01-25: 26 contributions</title></rect>
-<rect x="282.00" y="215.33" width="12.00" height="10.67" rx="2"><title>Week of 2026-02-01: 23 contributions</title></rect>
-<rect x="298.00" y="209.76" width="12.00" height="16.24" rx="2"><title>Week of 2026-02-08: 35 contributions</title></rect>
-<rect x="314.00" y="218.11" width="12.00" height="7.89" rx="2"><title>Week of 2026-02-15: 17 contributions</title></rect>
-<rect x="330.00" y="215.33" width="12.00" height="10.67" rx="2"><title>Week of 2026-02-22: 23 contributions</title></rect>
-<rect x="346.00" y="214.40" width="12.00" height="11.60" rx="2"><title>Week of 2026-03-01: 25 contributions</title></rect>
-<rect x="362.00" y="214.87" width="12.00" height="11.13" rx="2"><title>Week of 2026-03-08: 24 contributions</title></rect>
-<rect x="378.00" y="219.51" width="12.00" height="6.49" rx="2"><title>Week of 2026-03-15: 14 contributions</title></rect>
-<rect x="394.00" y="221.82" width="12.00" height="4.18" rx="2"><title>Week of 2026-03-22: 9 contributions</title></rect>
-<rect x="410.00" y="219.97" width="12.00" height="6.03" rx="2"><title>Week of 2026-03-29: 13 contributions</title></rect>
-<rect x="426.00" y="205.59" width="12.00" height="20.41" rx="2"><title>Week of 2026-04-05: 44 contributions</title></rect>
-<rect x="442.00" y="200.95" width="12.00" height="25.05" rx="2"><title>Week of 2026-04-12: 54 contributions</title></rect>
-<rect x="458.00" y="209.30" width="12.00" height="16.70" rx="2"><title>Week of 2026-04-19: 36 contributions</title></rect>
-<rect x="474.00" y="212.55" width="12.00" height="13.45" rx="2"><title>Week of 2026-04-26: 29 contributions</title></rect>
-<rect x="490.00" y="204.66" width="12.00" height="21.34" rx="2"><title>Week of 2026-05-03: 46 contributions</title></rect>
-<rect x="506.00" y="197.70" width="12.00" height="28.30" rx="2"><title>Week of 2026-05-10: 61 contributions</title></rect>
-<rect x="522.00" y="214.40" width="12.00" height="11.60" rx="2"><title>Week of 2026-05-17: 25 contributions</title></rect>
-<rect x="538.00" y="218.58" width="12.00" height="7.42" rx="2"><title>Week of 2026-05-24: 16 contributions</title></rect>
-<rect x="554.00" y="211.15" width="12.00" height="14.85" rx="2"><title>Week of 2026-05-31: 32 contributions</title></rect>
-<rect x="570.00" y="214.87" width="12.00" height="11.13" rx="2"><title>Week of 2026-06-07: 24 contributions</title></rect>
-<rect x="586.00" y="215.79" width="12.00" height="10.21" rx="2"><title>Week of 2026-06-14: 22 contributions</title></rect>
-<rect x="602.00" y="223.00" width="12.00" height="3.00" rx="2"><title>Week of 2026-06-21: 6 contributions</title></rect>
-<rect x="618.00" y="213.01" width="12.00" height="12.99" rx="2"><title>Week of 2026-06-28: 28 contributions</title></rect>
-<rect x="634.00" y="222.75" width="12.00" height="3.25" rx="2"><title>Week of 2026-07-05: 7 contributions</title></rect>
-<rect x="650.00" y="213.94" width="12.00" height="12.06" rx="2"><title>Week of 2026-07-12: 26 contributions</title></rect>
-<rect x="666.00" y="190.74" width="12.00" height="35.26" rx="2"><title>Week of 2026-07-19: 76 contributions</title></rect>
-<rect x="682.00" y="194.92" width="12.00" height="31.08" rx="2"><title>Week of 2026-07-26: 67 contributions</title></rect>
-<rect x="698.00" y="200.02" width="12.00" height="25.98" rx="2"><title>Week of 2026-08-02: 56 contributions</title></rect>
-<rect x="714.00" y="213.01" width="12.00" height="12.99" rx="2"><title>Week of 2026-08-09: 28 contributions</title></rect>
-<rect x="730.00" y="220.43" width="12.00" height="5.57" rx="2"><title>Week of 2026-08-16: 12 contributions</title></rect>
-<rect x="746.00" y="220.90" width="12.00" height="5.10" rx="2"><title>Week of 2026-08-23: 11 contributions</title></rect>
-<rect x="762.00" y="214.40" width="12.00" height="11.60" rx="2"><title>Week of 2026-08-30: 25 contributions</title></rect>
-<rect x="778.00" y="185.18" width="12.00" height="40.82" rx="2"><title>Week of 2026-09-06: 88 contributions</title></rect>
-<rect x="794.00" y="170.79" width="12.00" height="55.21" rx="2"><title>Week of 2026-09-13: 119 contributions</title></rect>
-<rect x="810.00" y="142.03" width="12.00" height="83.97" rx="2"><title>Week of 2026-09-20: 181 contributions</title></rect>
-<rect x="826.00" y="173.11" width="12.00" height="52.89" rx="2"><title>Week of 2026-09-27: 114 contributions</title></rect>
-<rect x="842.00" y="182.86" width="12.00" height="43.14" rx="2"><title>Week of 2026-10-04: 93 contributions</title></rect>
-<rect x="858.00" y="136.00" width="12.00" height="90.00" rx="2"><title>Week of 2026-10-11: 194 contributions</title></rect></clipPath>
+  <clipPath id="skyline"><rect x="26.00" y="223.00" width="12.00" height="3.00" rx="2"><title>Week of 2025-10-19: 0 contributions</title></rect>
+<rect x="42.00" y="223.00" width="12.00" height="3.00" rx="2"><title>Week of 2025-10-26: 0 contributions</title></rect>
+<rect x="58.00" y="223.00" width="12.00" height="3.00" rx="2"><title>Week of 2025-11-02: 1 contributions</title></rect>
+<rect x="74.00" y="223.00" width="12.00" height="3.00" rx="2"><title>Week of 2025-11-09: 0 contributions</title></rect>
+<rect x="90.00" y="223.00" width="12.00" height="3.00" rx="2"><title>Week of 2025-11-16: 0 contributions</title></rect>
+<rect x="106.00" y="212.36" width="12.00" height="13.64" rx="2"><title>Week of 2025-11-23: 30 contributions</title></rect>
+<rect x="122.00" y="216.45" width="12.00" height="9.55" rx="2"><title>Week of 2025-11-30: 21 contributions</title></rect>
+<rect x="138.00" y="218.73" width="12.00" height="7.27" rx="2"><title>Week of 2025-12-07: 16 contributions</title></rect>
+<rect x="154.00" y="217.36" width="12.00" height="8.64" rx="2"><title>Week of 2025-12-14: 19 contributions</title></rect>
+<rect x="170.00" y="220.09" width="12.00" height="5.91" rx="2"><title>Week of 2025-12-21: 13 contributions</title></rect>
+<rect x="186.00" y="222.36" width="12.00" height="3.64" rx="2"><title>Week of 2025-12-28: 8 contributions</title></rect>
+<rect x="202.00" y="220.55" width="12.00" height="5.45" rx="2"><title>Week of 2026-01-04: 12 contributions</title></rect>
+<rect x="218.00" y="218.27" width="12.00" height="7.73" rx="2"><title>Week of 2026-01-11: 17 contributions</title></rect>
+<rect x="234.00" y="218.27" width="12.00" height="7.73" rx="2"><title>Week of 2026-01-18: 17 contributions</title></rect>
+<rect x="250.00" y="214.18" width="12.00" height="11.82" rx="2"><title>Week of 2026-01-25: 26 contributions</title></rect>
+<rect x="266.00" y="215.55" width="12.00" height="10.45" rx="2"><title>Week of 2026-02-01: 23 contributions</title></rect>
+<rect x="282.00" y="210.09" width="12.00" height="15.91" rx="2"><title>Week of 2026-02-08: 35 contributions</title></rect>
+<rect x="298.00" y="218.27" width="12.00" height="7.73" rx="2"><title>Week of 2026-02-15: 17 contributions</title></rect>
+<rect x="314.00" y="215.55" width="12.00" height="10.45" rx="2"><title>Week of 2026-02-22: 23 contributions</title></rect>
+<rect x="330.00" y="214.64" width="12.00" height="11.36" rx="2"><title>Week of 2026-03-01: 25 contributions</title></rect>
+<rect x="346.00" y="215.09" width="12.00" height="10.91" rx="2"><title>Week of 2026-03-08: 24 contributions</title></rect>
+<rect x="362.00" y="219.64" width="12.00" height="6.36" rx="2"><title>Week of 2026-03-15: 14 contributions</title></rect>
+<rect x="378.00" y="221.91" width="12.00" height="4.09" rx="2"><title>Week of 2026-03-22: 9 contributions</title></rect>
+<rect x="394.00" y="220.09" width="12.00" height="5.91" rx="2"><title>Week of 2026-03-29: 13 contributions</title></rect>
+<rect x="410.00" y="206.00" width="12.00" height="20.00" rx="2"><title>Week of 2026-04-05: 44 contributions</title></rect>
+<rect x="426.00" y="201.45" width="12.00" height="24.55" rx="2"><title>Week of 2026-04-12: 54 contributions</title></rect>
+<rect x="442.00" y="209.64" width="12.00" height="16.36" rx="2"><title>Week of 2026-04-19: 36 contributions</title></rect>
+<rect x="458.00" y="212.82" width="12.00" height="13.18" rx="2"><title>Week of 2026-04-26: 29 contributions</title></rect>
+<rect x="474.00" y="205.09" width="12.00" height="20.91" rx="2"><title>Week of 2026-05-03: 46 contributions</title></rect>
+<rect x="490.00" y="198.27" width="12.00" height="27.73" rx="2"><title>Week of 2026-05-10: 61 contributions</title></rect>
+<rect x="506.00" y="214.64" width="12.00" height="11.36" rx="2"><title>Week of 2026-05-17: 25 contributions</title></rect>
+<rect x="522.00" y="218.73" width="12.00" height="7.27" rx="2"><title>Week of 2026-05-24: 16 contributions</title></rect>
+<rect x="538.00" y="211.45" width="12.00" height="14.55" rx="2"><title>Week of 2026-05-31: 32 contributions</title></rect>
+<rect x="554.00" y="215.09" width="12.00" height="10.91" rx="2"><title>Week of 2026-06-07: 24 contributions</title></rect>
+<rect x="570.00" y="216.00" width="12.00" height="10.00" rx="2"><title>Week of 2026-06-14: 22 contributions</title></rect>
+<rect x="586.00" y="223.00" width="12.00" height="3.00" rx="2"><title>Week of 2026-06-21: 6 contributions</title></rect>
+<rect x="602.00" y="213.27" width="12.00" height="12.73" rx="2"><title>Week of 2026-06-28: 28 contributions</title></rect>
+<rect x="618.00" y="222.82" width="12.00" height="3.18" rx="2"><title>Week of 2026-07-05: 7 contributions</title></rect>
+<rect x="634.00" y="214.18" width="12.00" height="11.82" rx="2"><title>Week of 2026-07-12: 26 contributions</title></rect>
+<rect x="650.00" y="191.45" width="12.00" height="34.55" rx="2"><title>Week of 2026-07-19: 76 contributions</title></rect>
+<rect x="666.00" y="195.55" width="12.00" height="30.45" rx="2"><title>Week of 2026-07-26: 67 contributions</title></rect>
+<rect x="682.00" y="200.55" width="12.00" height="25.45" rx="2"><title>Week of 2026-08-02: 56 contributions</title></rect>
+<rect x="698.00" y="213.27" width="12.00" height="12.73" rx="2"><title>Week of 2026-08-09: 28 contributions</title></rect>
+<rect x="714.00" y="220.55" width="12.00" height="5.45" rx="2"><title>Week of 2026-08-16: 12 contributions</title></rect>
+<rect x="730.00" y="221.00" width="12.00" height="5.00" rx="2"><title>Week of 2026-08-23: 11 contributions</title></rect>
+<rect x="746.00" y="214.64" width="12.00" height="11.36" rx="2"><title>Week of 2026-08-30: 25 contributions</title></rect>
+<rect x="762.00" y="186.00" width="12.00" height="40.00" rx="2"><title>Week of 2026-09-06: 88 contributions</title></rect>
+<rect x="778.00" y="171.91" width="12.00" height="54.09" rx="2"><title>Week of 2026-09-13: 119 contributions</title></rect>
+<rect x="794.00" y="143.73" width="12.00" height="82.27" rx="2"><title>Week of 2026-09-20: 181 contributions</title></rect>
+<rect x="810.00" y="174.18" width="12.00" height="51.82" rx="2"><title>Week of 2026-09-27: 114 contributions</title></rect>
+<rect x="826.00" y="183.73" width="12.00" height="42.27" rx="2"><title>Week of 2026-10-04: 93 contributions</title></rect>
+<rect x="842.00" y="136.00" width="12.00" height="90.00" rx="2"><title>Week of 2026-10-11: 198 contributions</title></rect>
+<rect x="858.00" y="223.00" width="12.00" height="3.00" rx="2"><title>Week of 2026-10-18: 0 contributions</title></rect></clipPath>
 </defs>
 
 <rect x=".5" y=".5" width="899" height="271" rx="10" fill="#ffffff" stroke="#d1d9e0"/>
 <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" fill="#1f2328">
   <text x="26" y="30" font-size="13" font-weight="600">glpecile / github</text>
-  <text x="874" y="30" text-anchor="end" font-size="12" fill="#59636e">2025-10-12 — 2026-10-17</text>
-  <text x="26" y="80" font-size="30" font-weight="600">1,883</text><text x="26" y="102" font-size="12" fill="#59636e">contributions</text>
-<text x="244" y="80" font-size="30" font-weight="600">227</text><text x="244" y="102" font-size="12" fill="#59636e">active days</text>
+  <text x="874" y="30" text-anchor="end" font-size="12" fill="#59636e">2025-10-19 — 2026-10-18</text>
+  <text x="26" y="80" font-size="30" font-weight="600">1,887</text><text x="26" y="102" font-size="12" fill="#59636e">contributions</text>
+<text x="244" y="80" font-size="30" font-weight="600">228</text><text x="244" y="102" font-size="12" fill="#59636e">active days</text>
 <text x="462" y="80" font-size="30" font-weight="600">32</text><text x="462" y="102" font-size="12" fill="#59636e">public repositories</text>
 <text x="680" y="80" font-size="30" font-weight="600">65</text><text x="680" y="102" font-size="12" fill="#59636e">followers</text>
   <path d="M26 136H874 M26 181H874 M26 226H874" stroke="#eff2f5"/>
-  <g fill="url(#ink)"><rect x="26.00" y="223.00" width="12.00" height="3.00" rx="2"><title>Week of 2025-10-12: 0 contributions</title></rect>
-<rect x="42.00" y="223.00" width="12.00" height="3.00" rx="2"><title>Week of 2025-10-19: 0 contributions</title></rect>
-<rect x="58.00" y="223.00" width="12.00" height="3.00" rx="2"><title>Week of 2025-10-26: 0 contributions</title></rect>
-<rect x="74.00" y="223.00" width="12.00" height="3.00" rx="2"><title>Week of 2025-11-02: 1 contributions</title></rect>
-<rect x="90.00" y="223.00" width="12.00" height="3.00" rx="2"><title>Week of 2025-11-09: 0 contributions</title></rect>
-<rect x="106.00" y="223.00" width="12.00" height="3.00" rx="2"><title>Week of 2025-11-16: 0 contributions</title></rect>
-<rect x="122.00" y="212.08" width="12.00" height="13.92" rx="2"><title>Week of 2025-11-23: 30 contributions</title></rect>
-<rect x="138.00" y="216.26" width="12.00" height="9.74" rx="2"><title>Week of 2025-11-30: 21 contributions</title></rect>
-<rect x="154.00" y="218.58" width="12.00" height="7.42" rx="2"><title>Week of 2025-12-07: 16 contributions</title></rect>
-<rect x="170.00" y="217.19" width="12.00" height="8.81" rx="2"><title>Week of 2025-12-14: 19 contributions</title></rect>
-<rect x="186.00" y="219.97" width="12.00" height="6.03" rx="2"><title>Week of 2025-12-21: 13 contributions</title></rect>
-<rect x="202.00" y="222.29" width="12.00" height="3.71" rx="2"><title>Week of 2025-12-28: 8 contributions</title></rect>
-<rect x="218.00" y="220.43" width="12.00" height="5.57" rx="2"><title>Week of 2026-01-04: 12 contributions</title></rect>
-<rect x="234.00" y="218.11" width="12.00" height="7.89" rx="2"><title>Week of 2026-01-11: 17 contributions</title></rect>
-<rect x="250.00" y="218.11" width="12.00" height="7.89" rx="2"><title>Week of 2026-01-18: 17 contributions</title></rect>
-<rect x="266.00" y="213.94" width="12.00" height="12.06" rx="2"><title>Week of 2026-01-25: 26 contributions</title></rect>
-<rect x="282.00" y="215.33" width="12.00" height="10.67" rx="2"><title>Week of 2026-02-01: 23 contributions</title></rect>
-<rect x="298.00" y="209.76" width="12.00" height="16.24" rx="2"><title>Week of 2026-02-08: 35 contributions</title></rect>
-<rect x="314.00" y="218.11" width="12.00" height="7.89" rx="2"><title>Week of 2026-02-15: 17 contributions</title></rect>
-<rect x="330.00" y="215.33" width="12.00" height="10.67" rx="2"><title>Week of 2026-02-22: 23 contributions</title></rect>
-<rect x="346.00" y="214.40" width="12.00" height="11.60" rx="2"><title>Week of 2026-03-01: 25 contributions</title></rect>
-<rect x="362.00" y="214.87" width="12.00" height="11.13" rx="2"><title>Week of 2026-03-08: 24 contributions</title></rect>
-<rect x="378.00" y="219.51" width="12.00" height="6.49" rx="2"><title>Week of 2026-03-15: 14 contributions</title></rect>
-<rect x="394.00" y="221.82" width="12.00" height="4.18" rx="2"><title>Week of 2026-03-22: 9 contributions</title></rect>
-<rect x="410.00" y="219.97" width="12.00" height="6.03" rx="2"><title>Week of 2026-03-29: 13 contributions</title></rect>
-<rect x="426.00" y="205.59" width="12.00" height="20.41" rx="2"><title>Week of 2026-04-05: 44 contributions</title></rect>
-<rect x="442.00" y="200.95" width="12.00" height="25.05" rx="2"><title>Week of 2026-04-12: 54 contributions</title></rect>
-<rect x="458.00" y="209.30" width="12.00" height="16.70" rx="2"><title>Week of 2026-04-19: 36 contributions</title></rect>
-<rect x="474.00" y="212.55" width="12.00" height="13.45" rx="2"><title>Week of 2026-04-26: 29 contributions</title></rect>
-<rect x="490.00" y="204.66" width="12.00" height="21.34" rx="2"><title>Week of 2026-05-03: 46 contributions</title></rect>
-<rect x="506.00" y="197.70" width="12.00" height="28.30" rx="2"><title>Week of 2026-05-10: 61 contributions</title></rect>
-<rect x="522.00" y="214.40" width="12.00" height="11.60" rx="2"><title>Week of 2026-05-17: 25 contributions</title></rect>
-<rect x="538.00" y="218.58" width="12.00" height="7.42" rx="2"><title>Week of 2026-05-24: 16 contributions</title></rect>
-<rect x="554.00" y="211.15" width="12.00" height="14.85" rx="2"><title>Week of 2026-05-31: 32 contributions</title></rect>
-<rect x="570.00" y="214.87" width="12.00" height="11.13" rx="2"><title>Week of 2026-06-07: 24 contributions</title></rect>
-<rect x="586.00" y="215.79" width="12.00" height="10.21" rx="2"><title>Week of 2026-06-14: 22 contributions</title></rect>
-<rect x="602.00" y="223.00" width="12.00" height="3.00" rx="2"><title>Week of 2026-06-21: 6 contributions</title></rect>
-<rect x="618.00" y="213.01" width="12.00" height="12.99" rx="2"><title>Week of 2026-06-28: 28 contributions</title></rect>
-<rect x="634.00" y="222.75" width="12.00" height="3.25" rx="2"><title>Week of 2026-07-05: 7 contributions</title></rect>
-<rect x="650.00" y="213.94" width="12.00" height="12.06" rx="2"><title>Week of 2026-07-12: 26 contributions</title></rect>
-<rect x="666.00" y="190.74" width="12.00" height="35.26" rx="2"><title>Week of 2026-07-19: 76 contributions</title></rect>
-<rect x="682.00" y="194.92" width="12.00" height="31.08" rx="2"><title>Week of 2026-07-26: 67 contributions</title></rect>
-<rect x="698.00" y="200.02" width="12.00" height="25.98" rx="2"><title>Week of 2026-08-02: 56 contributions</title></rect>
-<rect x="714.00" y="213.01" width="12.00" height="12.99" rx="2"><title>Week of 2026-08-09: 28 contributions</title></rect>
-<rect x="730.00" y="220.43" width="12.00" height="5.57" rx="2"><title>Week of 2026-08-16: 12 contributions</title></rect>
-<rect x="746.00" y="220.90" width="12.00" height="5.10" rx="2"><title>Week of 2026-08-23: 11 contributions</title></rect>
-<rect x="762.00" y="214.40" width="12.00" height="11.60" rx="2"><title>Week of 2026-08-30: 25 contributions</title></rect>
-<rect x="778.00" y="185.18" width="12.00" height="40.82" rx="2"><title>Week of 2026-09-06: 88 contributions</title></rect>
-<rect x="794.00" y="170.79" width="12.00" height="55.21" rx="2"><title>Week of 2026-09-13: 119 contributions</title></rect>
-<rect x="810.00" y="142.03" width="12.00" height="83.97" rx="2"><title>Week of 2026-09-20: 181 contributions</title></rect>
-<rect x="826.00" y="173.11" width="12.00" height="52.89" rx="2"><title>Week of 2026-09-27: 114 contributions</title></rect>
-<rect x="842.00" y="182.86" width="12.00" height="43.14" rx="2"><title>Week of 2026-10-04: 93 contributions</title></rect>
-<rect x="858.00" y="136.00" width="12.00" height="90.00" rx="2"><title>Week of 2026-10-11: 194 contributions</title></rect></g>
+  <g fill="url(#ink)"><rect x="26.00" y="223.00" width="12.00" height="3.00" rx="2"><title>Week of 2025-10-19: 0 contributions</title></rect>
+<rect x="42.00" y="223.00" width="12.00" height="3.00" rx="2"><title>Week of 2025-10-26: 0 contributions</title></rect>
+<rect x="58.00" y="223.00" width="12.00" height="3.00" rx="2"><title>Week of 2025-11-02: 1 contributions</title></rect>
+<rect x="74.00" y="223.00" width="12.00" height="3.00" rx="2"><title>Week of 2025-11-09: 0 contributions</title></rect>
+<rect x="90.00" y="223.00" width="12.00" height="3.00" rx="2"><title>Week of 2025-11-16: 0 contributions</title></rect>
+<rect x="106.00" y="212.36" width="12.00" height="13.64" rx="2"><title>Week of 2025-11-23: 30 contributions</title></rect>
+<rect x="122.00" y="216.45" width="12.00" height="9.55" rx="2"><title>Week of 2025-11-30: 21 contributions</title></rect>
+<rect x="138.00" y="218.73" width="12.00" height="7.27" rx="2"><title>Week of 2025-12-07: 16 contributions</title></rect>
+<rect x="154.00" y="217.36" width="12.00" height="8.64" rx="2"><title>Week of 2025-12-14: 19 contributions</title></rect>
+<rect x="170.00" y="220.09" width="12.00" height="5.91" rx="2"><title>Week of 2025-12-21: 13 contributions</title></rect>
+<rect x="186.00" y="222.36" width="12.00" height="3.64" rx="2"><title>Week of 2025-12-28: 8 contributions</title></rect>
+<rect x="202.00" y="220.55" width="12.00" height="5.45" rx="2"><title>Week of 2026-01-04: 12 contributions</title></rect>
+<rect x="218.00" y="218.27" width="12.00" height="7.73" rx="2"><title>Week of 2026-01-11: 17 contributions</title></rect>
+<rect x="234.00" y="218.27" width="12.00" height="7.73" rx="2"><title>Week of 2026-01-18: 17 contributions</title></rect>
+<rect x="250.00" y="214.18" width="12.00" height="11.82" rx="2"><title>Week of 2026-01-25: 26 contributions</title></rect>
+<rect x="266.00" y="215.55" width="12.00" height="10.45" rx="2"><title>Week of 2026-02-01: 23 contributions</title></rect>
+<rect x="282.00" y="210.09" width="12.00" height="15.91" rx="2"><title>Week of 2026-02-08: 35 contributions</title></rect>
+<rect x="298.00" y="218.27" width="12.00" height="7.73" rx="2"><title>Week of 2026-02-15: 17 contributions</title></rect>
+<rect x="314.00" y="215.55" width="12.00" height="10.45" rx="2"><title>Week of 2026-02-22: 23 contributions</title></rect>
+<rect x="330.00" y="214.64" width="12.00" height="11.36" rx="2"><title>Week of 2026-03-01: 25 contributions</title></rect>
+<rect x="346.00" y="215.09" width="12.00" height="10.91" rx="2"><title>Week of 2026-03-08: 24 contributions</title></rect>
+<rect x="362.00" y="219.64" width="12.00" height="6.36" rx="2"><title>Week of 2026-03-15: 14 contributions</title></rect>
+<rect x="378.00" y="221.91" width="12.00" height="4.09" rx="2"><title>Week of 2026-03-22: 9 contributions</title></rect>
+<rect x="394.00" y="220.09" width="12.00" height="5.91" rx="2"><title>Week of 2026-03-29: 13 contributions</title></rect>
+<rect x="410.00" y="206.00" width="12.00" height="20.00" rx="2"><title>Week of 2026-04-05: 44 contributions</title></rect>
+<rect x="426.00" y="201.45" width="12.00" height="24.55" rx="2"><title>Week of 2026-04-12: 54 contributions</title></rect>
+<rect x="442.00" y="209.64" width="12.00" height="16.36" rx="2"><title>Week of 2026-04-19: 36 contributions</title></rect>
+<rect x="458.00" y="212.82" width="12.00" height="13.18" rx="2"><title>Week of 2026-04-26: 29 contributions</title></rect>
+<rect x="474.00" y="205.09" width="12.00" height="20.91" rx="2"><title>Week of 2026-05-03: 46 contributions</title></rect>
+<rect x="490.00" y="198.27" width="12.00" height="27.73" rx="2"><title>Week of 2026-05-10: 61 contributions</title></rect>
+<rect x="506.00" y="214.64" width="12.00" height="11.36" rx="2"><title>Week of 2026-05-17: 25 contributions</title></rect>
+<rect x="522.00" y="218.73" width="12.00" height="7.27" rx="2"><title>Week of 2026-05-24: 16 contributions</title></rect>
+<rect x="538.00" y="211.45" width="12.00" height="14.55" rx="2"><title>Week of 2026-05-31: 32 contributions</title></rect>
+<rect x="554.00" y="215.09" width="12.00" height="10.91" rx="2"><title>Week of 2026-06-07: 24 contributions</title></rect>
+<rect x="570.00" y="216.00" width="12.00" height="10.00" rx="2"><title>Week of 2026-06-14: 22 contributions</title></rect>
+<rect x="586.00" y="223.00" width="12.00" height="3.00" rx="2"><title>Week of 2026-06-21: 6 contributions</title></rect>
+<rect x="602.00" y="213.27" width="12.00" height="12.73" rx="2"><title>Week of 2026-06-28: 28 contributions</title></rect>
+<rect x="618.00" y="222.82" width="12.00" height="3.18" rx="2"><title>Week of 2026-07-05: 7 contributions</title></rect>
+<rect x="634.00" y="214.18" width="12.00" height="11.82" rx="2"><title>Week of 2026-07-12: 26 contributions</title></rect>
+<rect x="650.00" y="191.45" width="12.00" height="34.55" rx="2"><title>Week of 2026-07-19: 76 contributions</title></rect>
+<rect x="666.00" y="195.55" width="12.00" height="30.45" rx="2"><title>Week of 2026-07-26: 67 contributions</title></rect>
+<rect x="682.00" y="200.55" width="12.00" height="25.45" rx="2"><title>Week of 2026-08-02: 56 contributions</title></rect>
+<rect x="698.00" y="213.27" width="12.00" height="12.73" rx="2"><title>Week of 2026-08-09: 28 contributions</title></rect>
+<rect x="714.00" y="220.55" width="12.00" height="5.45" rx="2"><title>Week of 2026-08-16: 12 contributions</title></rect>
+<rect x="730.00" y="221.00" width="12.00" height="5.00" rx="2"><title>Week of 2026-08-23: 11 contributions</title></rect>
+<rect x="746.00" y="214.64" width="12.00" height="11.36" rx="2"><title>Week of 2026-08-30: 25 contributions</title></rect>
+<rect x="762.00" y="186.00" width="12.00" height="40.00" rx="2"><title>Week of 2026-09-06: 88 contributions</title></rect>
+<rect x="778.00" y="171.91" width="12.00" height="54.09" rx="2"><title>Week of 2026-09-13: 119 contributions</title></rect>
+<rect x="794.00" y="143.73" width="12.00" height="82.27" rx="2"><title>Week of 2026-09-20: 181 contributions</title></rect>
+<rect x="810.00" y="174.18" width="12.00" height="51.82" rx="2"><title>Week of 2026-09-27: 114 contributions</title></rect>
+<rect x="826.00" y="183.73" width="12.00" height="42.27" rx="2"><title>Week of 2026-10-04: 93 contributions</title></rect>
+<rect x="842.00" y="136.00" width="12.00" height="90.00" rx="2"><title>Week of 2026-10-11: 198 contributions</title></rect>
+<rect x="858.00" y="223.00" width="12.00" height="3.00" rx="2"><title>Week of 2026-10-18: 0 contributions</title></rect></g>
   
   <text x="26" y="251" font-size="11" fill="#59636e">WEEKLY CONTRIBUTIONS</text>
   <text x="874" y="251" text-anchor="end" font-size="11" fill="#59636e">Each column is one week · refreshed daily</text>
