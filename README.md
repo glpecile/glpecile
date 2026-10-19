@@ -39,7 +39,7 @@ Frontend engineer focused on design systems and high-craft product UI.
   <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/github-dark-static.svg">
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/github-light-static.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-dark.svg">
-  <img src="./assets/github-light.svg" width="900" alt="GitHub activity: 1,887 contributions, 228 active days, 32 public repositories, 65 followers. Weekly contribution skyline from 2025-10-19 to 2026-10-18.">
+  <img src="./assets/github-light.svg" width="900" alt="GitHub activity: 1,898 contributions, 229 active days, 32 public repositories, 65 followers. Weekly contribution skyline from 2025-10-19 to 2026-10-19.">
 </picture>
 </a>
 
@@ -48,20 +48,20 @@ Frontend engineer focused on design systems and high-craft product UI.
 <table>
 <tr>
 <td width="25%" align="center" valign="top">
-<a href="https://letterboxd.com/glp/film/tetsuo-the-iron-man/"><img src="https://a.ltrbxd.com/resized/film-poster/2/3/6/0/2/23602-tetsuo-the-iron-man-0-600-0-900-crop.jpg?v=7db3db7b0d" width="120" height="180" alt="Tetsuo: The Iron Man (1989) poster" loading="lazy"></a>
-<p><strong><a href="https://letterboxd.com/glp/film/tetsuo-the-iron-man/">Tetsuo: The Iron Man</a></strong><br><samp>1989 · 13 Oct 2026</samp></p>
+<a href="https://letterboxd.com/glp/film/when-evil-lurks/"><img src="https://a.ltrbxd.com/resized/film-poster/6/6/6/3/9/6/666396-when-evil-lurks-0-600-0-900-crop.jpg?v=cf13e1893c" width="120" height="180" alt="When Evil Lurks (2023) poster" loading="lazy"></a>
+<p><strong><a href="https://letterboxd.com/glp/film/when-evil-lurks/">When Evil Lurks</a></strong><br><samp>2023 · 18 Oct 2026</samp></p>
 </td>
 <td width="25%" align="center" valign="top">
-<a href="https://letterboxd.com/glp/film/carrie-1976/"><img src="https://a.ltrbxd.com/resized/sm/upload/2c/5d/69/bc/uc3OvgmbnYaS5Y0BOjSmC1EmSz1-0-600-0-900-crop.jpg?v=52ac29973c" width="120" height="180" alt="Carrie (1976) poster" loading="lazy"></a>
-<p><strong><a href="https://letterboxd.com/glp/film/carrie-1976/">Carrie</a></strong><br><samp>1976 · 12 Oct 2026</samp></p>
+<a href="https://letterboxd.com/glp/film/demons-1971/"><img src="https://a.ltrbxd.com/resized/film-poster/8/4/6/8/3/84683-demons-0-600-0-900-crop.jpg?v=a728640acb" width="120" height="180" alt="Demons (1971) poster" loading="lazy"></a>
+<p><strong><a href="https://letterboxd.com/glp/film/demons-1971/">Demons</a></strong><br><samp>1971 · 17 Oct 2026</samp></p>
 </td>
 <td width="25%" align="center" valign="top">
-<a href="https://letterboxd.com/glp/film/krypto-saves-the-day-robo-pal/"><img src="https://a.ltrbxd.com/resized/film-poster/1/6/4/5/2/7/3/1645273-krypto-saves-the-day-robo-pal-0-600-0-900-crop.jpg?v=f351186e3c" width="120" height="180" alt="Krypto Saves the Day!: Robo-Pal (2026) poster" loading="lazy"></a>
-<p><strong><a href="https://letterboxd.com/glp/film/krypto-saves-the-day-robo-pal/">Krypto Saves the Day!: Robo-Pal</a></strong><br><samp>2026 · 11 Oct 2026</samp></p>
+<a href="https://letterboxd.com/glp/film/runner-2026/"><img src="https://a.ltrbxd.com/resized/film-poster/1/2/6/3/5/3/0/1263530-runner-2026-0-600-0-900-crop.jpg?v=3039597d39" width="120" height="180" alt="Runner (2026) poster" loading="lazy"></a>
+<p><strong><a href="https://letterboxd.com/glp/film/runner-2026/">Runner</a></strong><br><samp>2026 · 17 Oct 2026</samp></p>
 </td>
 <td width="25%" align="center" valign="top">
-<a href="https://letterboxd.com/glp/film/evil-dead-burn/"><img src="https://a.ltrbxd.com/resized/film-poster/1/0/9/7/0/2/2/1097022-evil-dead-burn-0-600-0-900-crop.jpg?v=398ff82d46" width="120" height="180" alt="Evil Dead Burn (2026) poster" loading="lazy"></a>
-<p><strong><a href="https://letterboxd.com/glp/film/evil-dead-burn/">Evil Dead Burn</a></strong><br><samp>2026 · 11 Oct 2026</samp></p>
+<a href="https://letterboxd.com/glp/film/onibaba/"><img src="https://a.ltrbxd.com/resized/sm/upload/3x/qu/ti/2g/nITg6iRWo3CVWJEnhV4AiD3ukfx-0-600-0-900-crop.jpg?v=d394e337a5" width="120" height="180" alt="Onibaba (1964) poster" loading="lazy"></a>
+<p><strong><a href="https://letterboxd.com/glp/film/onibaba/">Onibaba</a></strong><br><samp>1964 · 15 Oct 2026</samp></p>
 </td>
 </tr>
 </table>
