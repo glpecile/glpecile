@@ -39,7 +39,7 @@ Frontend engineer focused on design systems and high-craft product UI.
   <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/github-dark-static.svg">
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/github-light-static.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-dark.svg">
-  <img src="./assets/github-light.svg" width="900" alt="GitHub activity: 2,090 contributions, 236 active days, 32 public repositories, 65 followers. Weekly contribution skyline from 2025-10-26 to 2026-10-25.">
+  <img src="./assets/github-light.svg" width="900" alt="GitHub activity: 2,108 contributions, 236 active days, 32 public repositories, 66 followers. Weekly contribution skyline from 2025-10-26 to 2026-10-26.">
 </picture>
 </a>
 
@@ -48,20 +48,20 @@ Frontend engineer focused on design systems and high-craft product UI.
 <table>
 <tr>
 <td width="25%" align="center" valign="top">
+<a href="https://letterboxd.com/glp/film/fatherland-2026/"><img src="https://a.ltrbxd.com/resized/film-poster/1/3/1/5/3/1/8/1315318-fatherland-2026-0-600-0-900-crop.jpg?v=6995cce652" width="120" height="180" alt="Fatherland (2026) poster" loading="lazy"></a>
+<p><strong><a href="https://letterboxd.com/glp/film/fatherland-2026/">Fatherland</a></strong><br><samp>2026 · 24 Oct 2026</samp></p>
+</td>
+<td width="25%" align="center" valign="top">
+<a href="https://letterboxd.com/glp/film/some-kind-of-heaven/"><img src="https://a.ltrbxd.com/resized/film-poster/5/6/4/7/3/3/564733-some-kind-of-heaven-0-600-0-900-crop.jpg?v=421a3e594f" width="120" height="180" alt="Some Kind of Heaven (2020) poster" loading="lazy"></a>
+<p><strong><a href="https://letterboxd.com/glp/film/some-kind-of-heaven/">Some Kind of Heaven</a></strong><br><samp>2020 · 20 Oct 2026</samp></p>
+</td>
+<td width="25%" align="center" valign="top">
 <a href="https://letterboxd.com/glp/film/love-of-your-life/"><img src="https://a.ltrbxd.com/resized/film-poster/1/2/6/6/9/2/2/1266922-love-of-your-life-0-600-0-900-crop.jpg?v=7a6d5c6675" width="120" height="180" alt="Love of Your Life (2026) poster" loading="lazy"></a>
 <p><strong><a href="https://letterboxd.com/glp/film/love-of-your-life/">Love of Your Life</a></strong><br><samp>2026 · 19 Oct 2026</samp></p>
 </td>
 <td width="25%" align="center" valign="top">
 <a href="https://letterboxd.com/glp/film/when-evil-lurks/"><img src="https://a.ltrbxd.com/resized/film-poster/6/6/6/3/9/6/666396-when-evil-lurks-0-600-0-900-crop.jpg?v=cf13e1893c" width="120" height="180" alt="When Evil Lurks (2023) poster" loading="lazy"></a>
 <p><strong><a href="https://letterboxd.com/glp/film/when-evil-lurks/">When Evil Lurks</a></strong><br><samp>2023 · 18 Oct 2026</samp></p>
-</td>
-<td width="25%" align="center" valign="top">
-<a href="https://letterboxd.com/glp/film/demons-1971/"><img src="https://a.ltrbxd.com/resized/film-poster/8/4/6/8/3/84683-demons-0-600-0-900-crop.jpg?v=a728640acb" width="120" height="180" alt="Demons (1971) poster" loading="lazy"></a>
-<p><strong><a href="https://letterboxd.com/glp/film/demons-1971/">Demons</a></strong><br><samp>1971 · 17 Oct 2026</samp></p>
-</td>
-<td width="25%" align="center" valign="top">
-<a href="https://letterboxd.com/glp/film/runner-2026/"><img src="https://a.ltrbxd.com/resized/film-poster/1/2/6/3/5/3/0/1263530-runner-2026-0-600-0-900-crop.jpg?v=3039597d39" width="120" height="180" alt="Runner (2026) poster" loading="lazy"></a>
-<p><strong><a href="https://letterboxd.com/glp/film/runner-2026/">Runner</a></strong><br><samp>2026 · 17 Oct 2026</samp></p>
 </td>
 </tr>
 </table>
