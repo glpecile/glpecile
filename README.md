@@ -39,7 +39,7 @@ Frontend engineer focused on design systems and high-craft product UI.
   <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/github-dark-static.svg">
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/github-light-static.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-dark.svg">
-  <img src="./assets/github-light.svg" width="900" alt="GitHub activity: 2,129 contributions, 237 active days, 32 public repositories, 66 followers. Weekly contribution skyline from 2025-10-26 to 2026-10-27.">
+  <img src="./assets/github-light.svg" width="900" alt="GitHub activity: 2,161 contributions, 239 active days, 32 public repositories, 66 followers. Weekly contribution skyline from 2025-10-26 to 2026-10-28.">
 </picture>
 </a>
 
