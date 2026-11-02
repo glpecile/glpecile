@@ -39,7 +39,7 @@ Frontend engineer focused on design systems and high-craft product UI.
   <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/github-dark-static.svg">
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/github-light-static.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-dark.svg">
-  <img src="./assets/github-light.svg" width="900" alt="GitHub activity: 2,283 contributions, 243 active days, 32 public repositories, 66 followers. Weekly contribution skyline from 2025-11-02 to 2026-11-01.">
+  <img src="./assets/github-light.svg" width="900" alt="GitHub activity: 2,323 contributions, 244 active days, 32 public repositories, 65 followers. Weekly contribution skyline from 2025-11-02 to 2026-11-02.">
 </picture>
 </a>
 
@@ -48,20 +48,20 @@ Frontend engineer focused on design systems and high-craft product UI.
 <table>
 <tr>
 <td width="25%" align="center" valign="top">
+<a href="https://letterboxd.com/glp/film/forgotten-island-2026/"><img src="https://a.ltrbxd.com/resized/film-poster/1/3/4/1/7/3/7/1341737-forgotten-island-2026-0-600-0-900-crop.jpg?v=a0d4d1bb5e" width="120" height="180" alt="Forgotten Island (2026) poster" loading="lazy"></a>
+<p><strong><a href="https://letterboxd.com/glp/film/forgotten-island-2026/">Forgotten Island</a></strong><br><samp>2026 · 01 Nov 2026</samp></p>
+</td>
+<td width="25%" align="center" valign="top">
+<a href="https://letterboxd.com/glp/film/fatal-frame/"><img src="https://a.ltrbxd.com/resized/film-poster/2/2/4/4/7/1/224471-fatal-frame-0-600-0-900-crop.jpg?v=7e692a497f" width="120" height="180" alt="Fatal Frame (2014) poster" loading="lazy"></a>
+<p><strong><a href="https://letterboxd.com/glp/film/fatal-frame/">Fatal Frame</a></strong><br><samp>2014 · 31 Oct 2026</samp></p>
+</td>
+<td width="25%" align="center" valign="top">
 <a href="https://letterboxd.com/glp/film/blood-and-black-lace/"><img src="https://a.ltrbxd.com/resized/film-poster/3/3/9/6/5/33965-blood-and-black-lace-0-600-0-900-crop.jpg?v=4e6a74dca9" width="120" height="180" alt="Blood and Black Lace (1964) poster" loading="lazy"></a>
 <p><strong><a href="https://letterboxd.com/glp/film/blood-and-black-lace/">Blood and Black Lace</a></strong><br><samp>1964 · 28 Oct 2026</samp></p>
 </td>
 <td width="25%" align="center" valign="top">
 <a href="https://letterboxd.com/glp/film/fatherland-2026/"><img src="https://a.ltrbxd.com/resized/film-poster/1/3/1/5/3/1/8/1315318-fatherland-2026-0-600-0-900-crop.jpg?v=6995cce652" width="120" height="180" alt="Fatherland (2026) poster" loading="lazy"></a>
 <p><strong><a href="https://letterboxd.com/glp/film/fatherland-2026/">Fatherland</a></strong><br><samp>2026 · 24 Oct 2026</samp></p>
-</td>
-<td width="25%" align="center" valign="top">
-<a href="https://letterboxd.com/glp/film/some-kind-of-heaven/"><img src="https://a.ltrbxd.com/resized/film-poster/5/6/4/7/3/3/564733-some-kind-of-heaven-0-600-0-900-crop.jpg?v=421a3e594f" width="120" height="180" alt="Some Kind of Heaven (2020) poster" loading="lazy"></a>
-<p><strong><a href="https://letterboxd.com/glp/film/some-kind-of-heaven/">Some Kind of Heaven</a></strong><br><samp>2020 · 20 Oct 2026</samp></p>
-</td>
-<td width="25%" align="center" valign="top">
-<a href="https://letterboxd.com/glp/film/love-of-your-life/"><img src="https://a.ltrbxd.com/resized/film-poster/1/2/6/6/9/2/2/1266922-love-of-your-life-0-600-0-900-crop.jpg?v=7a6d5c6675" width="120" height="180" alt="Love of Your Life (2026) poster" loading="lazy"></a>
-<p><strong><a href="https://letterboxd.com/glp/film/love-of-your-life/">Love of Your Life</a></strong><br><samp>2026 · 19 Oct 2026</samp></p>
 </td>
 </tr>
 </table>
