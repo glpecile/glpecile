@@ -39,7 +39,7 @@ Frontend engineer focused on design systems and high-craft product UI.
   <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/github-dark-static.svg">
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/github-light-static.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-dark.svg">
-  <img src="./assets/github-light.svg" width="900" alt="GitHub activity: 2,480 contributions, 247 active days, 33 public repositories, 65 followers. Weekly contribution skyline from 2025-11-02 to 2026-11-06.">
+  <img src="./assets/github-light.svg" width="900" alt="GitHub activity: 2,506 contributions, 248 active days, 34 public repositories, 65 followers. Weekly contribution skyline from 2025-11-02 to 2026-11-07.">
 </picture>
 </a>
 
@@ -48,20 +48,20 @@ Frontend engineer focused on design systems and high-craft product UI.
 <table>
 <tr>
 <td width="25%" align="center" valign="top">
-<a href="https://letterboxd.com/glp/film/forgotten-island-2026/"><img src="https://a.ltrbxd.com/resized/film-poster/1/3/4/1/7/3/7/1341737-forgotten-island-2026-0-600-0-900-crop.jpg?v=a0d4d1bb5e" width="120" height="180" alt="Forgotten Island (2026) poster" loading="lazy"></a>
-<p><strong><a href="https://letterboxd.com/glp/film/forgotten-island-2026/">Forgotten Island</a></strong><br><samp>2026 · 01 Nov 2026</samp></p>
+<a href="https://letterboxd.com/glp/film/ali-g-who-iz-i/"><img src="https://a.ltrbxd.com/resized/film-poster/1/5/9/4/1/9/3/1594193-ali-g-who-iz-i-0-600-0-900-crop.jpg?v=0e3e07fb61" width="120" height="180" alt="Ali G: Who Iz I? (2026) poster" loading="lazy"></a>
+<p><strong><a href="https://letterboxd.com/glp/film/ali-g-who-iz-i/">Ali G: Who Iz I?</a></strong><br><samp>2026 · 05 Nov 2026</samp></p>
 </td>
 <td width="25%" align="center" valign="top">
-<a href="https://letterboxd.com/glp/film/fatal-frame/"><img src="https://a.ltrbxd.com/resized/film-poster/2/2/4/4/7/1/224471-fatal-frame-0-600-0-900-crop.jpg?v=7e692a497f" width="120" height="180" alt="Fatal Frame (2014) poster" loading="lazy"></a>
-<p><strong><a href="https://letterboxd.com/glp/film/fatal-frame/">Fatal Frame</a></strong><br><samp>2014 · 31 Oct 2026</samp></p>
+<a href="https://letterboxd.com/glp/film/clayface/"><img src="https://a.ltrbxd.com/resized/film-poster/1/2/8/4/6/3/6/1284636-clayface-0-600-0-900-crop.jpg?v=eb305849d5" width="120" height="180" alt="Clayface (2026) poster" loading="lazy"></a>
+<p><strong><a href="https://letterboxd.com/glp/film/clayface/">Clayface</a></strong><br><samp>2026 · 05 Nov 2026</samp></p>
 </td>
 <td width="25%" align="center" valign="top">
-<a href="https://letterboxd.com/glp/film/blood-and-black-lace/"><img src="https://a.ltrbxd.com/resized/film-poster/3/3/9/6/5/33965-blood-and-black-lace-0-600-0-900-crop.jpg?v=4e6a74dca9" width="120" height="180" alt="Blood and Black Lace (1964) poster" loading="lazy"></a>
-<p><strong><a href="https://letterboxd.com/glp/film/blood-and-black-lace/">Blood and Black Lace</a></strong><br><samp>1964 · 28 Oct 2026</samp></p>
+<a href="https://letterboxd.com/glp/film/darkman/"><img src="https://a.ltrbxd.com/resized/film-poster/4/7/0/4/4/47044-darkman-0-600-0-900-crop.jpg?v=0ce4651ae6" width="120" height="180" alt="Darkman (1990) poster" loading="lazy"></a>
+<p><strong><a href="https://letterboxd.com/glp/film/darkman/">Darkman</a></strong><br><samp>1990 · 03 Nov 2026</samp></p>
 </td>
 <td width="25%" align="center" valign="top">
-<a href="https://letterboxd.com/glp/film/fatherland-2026/"><img src="https://a.ltrbxd.com/resized/film-poster/1/3/1/5/3/1/8/1315318-fatherland-2026-0-600-0-900-crop.jpg?v=6995cce652" width="120" height="180" alt="Fatherland (2026) poster" loading="lazy"></a>
-<p><strong><a href="https://letterboxd.com/glp/film/fatherland-2026/">Fatherland</a></strong><br><samp>2026 · 24 Oct 2026</samp></p>
+<a href="https://letterboxd.com/glp/film/the-social-reckoning/"><img src="https://a.ltrbxd.com/resized/film-poster/1/1/6/4/6/6/9/1164669-the-social-reckoning-0-600-0-900-crop.jpg?v=e880229a7f" width="120" height="180" alt="The Social Reckoning (2026) poster" loading="lazy"></a>
+<p><strong><a href="https://letterboxd.com/glp/film/the-social-reckoning/">The Social Reckoning</a></strong><br><samp>2026 · 03 Nov 2026</samp></p>
 </td>
 </tr>
 </table>
