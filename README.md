@@ -39,7 +39,7 @@ Frontend engineer focused on design systems and high-craft product UI.
   <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/github-dark-static.svg">
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/github-light-static.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-dark.svg">
-  <img src="./assets/github-light.svg" width="900" alt="GitHub activity: 2,555 contributions, 251 active days, 34 public repositories, 66 followers. Weekly contribution skyline from 2025-11-09 to 2026-11-10.">
+  <img src="./assets/github-light.svg" width="900" alt="GitHub activity: 2,579 contributions, 252 active days, 34 public repositories, 66 followers. Weekly contribution skyline from 2025-11-09 to 2026-11-11.">
 </picture>
 </a>
 
@@ -48,20 +48,20 @@ Frontend engineer focused on design systems and high-craft product UI.
 <table>
 <tr>
 <td width="25%" align="center" valign="top">
-<a href="https://letterboxd.com/glp/film/ali-g-who-iz-i/"><img src="https://a.ltrbxd.com/resized/film-poster/1/5/9/4/1/9/3/1594193-ali-g-who-iz-i-0-600-0-900-crop.jpg?v=0e3e07fb61" width="120" height="180" alt="Ali G: Who Iz I? (2026) poster" loading="lazy"></a>
-<p><strong><a href="https://letterboxd.com/glp/film/ali-g-who-iz-i/">Ali G: Who Iz I?</a></strong><br><samp>2026 · 05 Nov 2026</samp></p>
+<a href="https://letterboxd.com/glp/film/undetectable-box/"><img src="https://a.ltrbxd.com/resized/film-poster/8/1/1/5/7/6/811576-undetectable-box-0-600-0-900-crop.jpg?v=fac0438797" width="120" height="180" alt="Undetectable Box (2019) poster" loading="lazy"></a>
+<p><strong><a href="https://letterboxd.com/glp/film/undetectable-box/">Undetectable Box</a></strong><br><samp>2019 · 09 Nov 2026</samp></p>
 </td>
 <td width="25%" align="center" valign="top">
-<a href="https://letterboxd.com/glp/film/clayface/"><img src="https://a.ltrbxd.com/resized/film-poster/1/2/8/4/6/3/6/1284636-clayface-0-600-0-900-crop.jpg?v=eb305849d5" width="120" height="180" alt="Clayface (2026) poster" loading="lazy"></a>
-<p><strong><a href="https://letterboxd.com/glp/film/clayface/">Clayface</a></strong><br><samp>2026 · 05 Nov 2026</samp></p>
+<a href="https://letterboxd.com/glp/film/false-memory-2026/"><img src="https://a.ltrbxd.com/resized/film-poster/1/6/2/0/2/5/7/1620257-false-memory-2026-0-600-0-900-crop.jpg?v=df36311cb5" width="120" height="180" alt="False Memory (2026) poster" loading="lazy"></a>
+<p><strong><a href="https://letterboxd.com/glp/film/false-memory-2026/">False Memory</a></strong><br><samp>2026 · 09 Nov 2026</samp></p>
 </td>
 <td width="25%" align="center" valign="top">
-<a href="https://letterboxd.com/glp/film/darkman/"><img src="https://a.ltrbxd.com/resized/film-poster/4/7/0/4/4/47044-darkman-0-600-0-900-crop.jpg?v=0ce4651ae6" width="120" height="180" alt="Darkman (1990) poster" loading="lazy"></a>
-<p><strong><a href="https://letterboxd.com/glp/film/darkman/">Darkman</a></strong><br><samp>1990 · 03 Nov 2026</samp></p>
+<a href="https://letterboxd.com/glp/film/ghost-dog-the-way-of-the-samurai/"><img src="https://a.ltrbxd.com/resized/film-poster/4/9/1/2/4/49124-ghost-dog-the-way-of-the-samurai-0-600-0-900-crop.jpg?v=93eee57b59" width="120" height="180" alt="Ghost Dog: The Way of the Samurai (1999) poster" loading="lazy"></a>
+<p><strong><a href="https://letterboxd.com/glp/film/ghost-dog-the-way-of-the-samurai/">Ghost Dog: The Way of the Samurai</a></strong><br><samp>1999 · 07 Nov 2026</samp></p>
 </td>
 <td width="25%" align="center" valign="top">
-<a href="https://letterboxd.com/glp/film/the-social-reckoning/"><img src="https://a.ltrbxd.com/resized/film-poster/1/1/6/4/6/6/9/1164669-the-social-reckoning-0-600-0-900-crop.jpg?v=e880229a7f" width="120" height="180" alt="The Social Reckoning (2026) poster" loading="lazy"></a>
-<p><strong><a href="https://letterboxd.com/glp/film/the-social-reckoning/">The Social Reckoning</a></strong><br><samp>2026 · 03 Nov 2026</samp></p>
+<a href="https://letterboxd.com/glp/film/spermworld/"><img src="https://a.ltrbxd.com/resized/film-poster/1/0/6/4/0/5/4/1064054-spermworld-0-600-0-900-crop.jpg?v=fb4da1471b" width="120" height="180" alt="SPERMWORLD (2024) poster" loading="lazy"></a>
+<p><strong><a href="https://letterboxd.com/glp/film/spermworld/">SPERMWORLD</a></strong><br><samp>2024 · 07 Nov 2026</samp></p>
 </td>
 </tr>
 </table>
