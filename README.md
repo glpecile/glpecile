@@ -39,7 +39,7 @@ Frontend engineer focused on design systems and high-craft product UI.
   <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/github-dark-static.svg">
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/github-light-static.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-dark.svg">
-  <img src="./assets/github-light.svg" width="900" alt="GitHub activity: 2,862 contributions, 262 active days, 34 public repositories, 65 followers. Weekly contribution skyline from 2025-11-23 to 2026-11-22.">
+  <img src="./assets/github-light.svg" width="900" alt="GitHub activity: 2,888 contributions, 264 active days, 35 public repositories, 65 followers. Weekly contribution skyline from 2025-11-23 to 2026-11-23.">
 </picture>
 </a>
 
@@ -48,20 +48,20 @@ Frontend engineer focused on design systems and high-craft product UI.
 <table>
 <tr>
 <td width="25%" align="center" valign="top">
-<a href="https://letterboxd.com/glp/film/undetectable-box/"><img src="https://a.ltrbxd.com/resized/film-poster/8/1/1/5/7/6/811576-undetectable-box-0-600-0-900-crop.jpg?v=fac0438797" width="120" height="180" alt="Undetectable Box (2019) poster" loading="lazy"></a>
-<p><strong><a href="https://letterboxd.com/glp/film/undetectable-box/">Undetectable Box</a></strong><br><samp>2019 · 09 Nov 2026</samp></p>
+<a href="https://letterboxd.com/glp/film/happy-accidents/"><img src="https://a.ltrbxd.com/resized/film-poster/3/8/0/0/9/38009-happy-accidents-0-600-0-900-crop.jpg?v=8c810b393e" width="120" height="180" alt="Happy Accidents (2000) poster" loading="lazy"></a>
+<p><strong><a href="https://letterboxd.com/glp/film/happy-accidents/">Happy Accidents</a></strong><br><samp>2000 · 22 Nov 2026</samp></p>
 </td>
 <td width="25%" align="center" valign="top">
-<a href="https://letterboxd.com/glp/film/false-memory-2026/"><img src="https://a.ltrbxd.com/resized/film-poster/1/6/2/0/2/5/7/1620257-false-memory-2026-0-600-0-900-crop.jpg?v=df36311cb5" width="120" height="180" alt="False Memory (2026) poster" loading="lazy"></a>
-<p><strong><a href="https://letterboxd.com/glp/film/false-memory-2026/">False Memory</a></strong><br><samp>2026 · 09 Nov 2026</samp></p>
+<a href="https://letterboxd.com/glp/film/ghost-in-the-shell-2-innocence/"><img src="https://a.ltrbxd.com/resized/film-poster/4/4/7/6/2/44762-ghost-in-the-shell-2-innocence-0-600-0-900-crop.jpg?v=b88649216c" width="120" height="180" alt="Ghost in the Shell 2: Innocence (2004) poster" loading="lazy"></a>
+<p><strong><a href="https://letterboxd.com/glp/film/ghost-in-the-shell-2-innocence/">Ghost in the Shell 2: Innocence</a></strong><br><samp>2004 · 21 Nov 2026</samp></p>
 </td>
 <td width="25%" align="center" valign="top">
-<a href="https://letterboxd.com/glp/film/ghost-dog-the-way-of-the-samurai/"><img src="https://a.ltrbxd.com/resized/film-poster/4/9/1/2/4/49124-ghost-dog-the-way-of-the-samurai-0-600-0-900-crop.jpg?v=93eee57b59" width="120" height="180" alt="Ghost Dog: The Way of the Samurai (1999) poster" loading="lazy"></a>
-<p><strong><a href="https://letterboxd.com/glp/film/ghost-dog-the-way-of-the-samurai/">Ghost Dog: The Way of the Samurai</a></strong><br><samp>1999 · 07 Nov 2026</samp></p>
+<a href="https://letterboxd.com/glp/film/teenage-sex-and-death-at-camp-miasma/"><img src="https://a.ltrbxd.com/resized/film-poster/1/1/2/3/8/6/7/1123867-teenage-sex-and-death-at-camp-miasma-0-600-0-900-crop.jpg?v=f6059120f8" width="120" height="180" alt="Teenage Sex and Death at Camp Miasma (2026) poster" loading="lazy"></a>
+<p><strong><a href="https://letterboxd.com/glp/film/teenage-sex-and-death-at-camp-miasma/">Teenage Sex and Death at Camp Miasma</a></strong><br><samp>2026 · 21 Nov 2026</samp></p>
 </td>
 <td width="25%" align="center" valign="top">
-<a href="https://letterboxd.com/glp/film/spermworld/"><img src="https://a.ltrbxd.com/resized/film-poster/1/0/6/4/0/5/4/1064054-spermworld-0-600-0-900-crop.jpg?v=fb4da1471b" width="120" height="180" alt="SPERMWORLD (2024) poster" loading="lazy"></a>
-<p><strong><a href="https://letterboxd.com/glp/film/spermworld/">SPERMWORLD</a></strong><br><samp>2024 · 07 Nov 2026</samp></p>
+<a href="https://letterboxd.com/glp/film/no-time-for-carnaval/"><img src="https://a.ltrbxd.com/resized/film-poster/1/3/0/0/0/0/5/1300005-no-time-for-carnaval-0-600-0-900-crop.jpg?v=0053bd2224" width="120" height="180" alt="No Time for Carnaval (2025) poster" loading="lazy"></a>
+<p><strong><a href="https://letterboxd.com/glp/film/no-time-for-carnaval/">No Time for Carnaval</a></strong><br><samp>2025 · 21 Nov 2026</samp></p>
 </td>
 </tr>
 </table>
